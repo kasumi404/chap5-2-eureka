@@ -13,7 +13,7 @@
 
     <parent>
         <groupId>com.cralor</groupId>
-        <artifactId>chap9-zuul</artifactId>
+        <artifactId>chap5-2-eureka</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
